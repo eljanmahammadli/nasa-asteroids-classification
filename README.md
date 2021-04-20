@@ -1,0 +1,1 @@
+The scope of this project is to predict whether an asteroid can be hazardous or not based on its characteristics/properties using XGBoost and Bayesian Optimization.
